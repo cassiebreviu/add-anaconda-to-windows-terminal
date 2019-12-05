@@ -1,10 +1,3 @@
----
-title: Use Anaconda Prompt in Windows Terminal and make life better
-published: false
-description: 
-tags: data science, 
----
-
 Here are the steps to add Anaconda Prompt to Windows Terminal
 
 ## Prerequisites
