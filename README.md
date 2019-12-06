@@ -7,7 +7,7 @@ I love the Windows Terminal and if you haven't tried it out yet I highly recomme
 
 ## Add Anaconda Prompt
 1. Open Windows Terminal and click the arrow and then `settings`. This will open the `profiles.json` file to customize the terminal.
-![Alt Text](https://thepracticaldev.s3.amazonaws.com/i/510dg0xj5jcbgtz5isz8.PNG)
+![Alt Text](Settings.PNG)
 2. Duplicate the `cmd` settings by copying and pasting them below or highlight `CTRL + D` if using visual studio to duplicate the selected text. (I ♥ shortcuts) 
 ![Alt Text](https://thepracticaldev.s3.amazonaws.com/i/m0xac4m0sd28dcfjbx7r.PNG)
 3. Update the `guid` to something unique by changing the last number
