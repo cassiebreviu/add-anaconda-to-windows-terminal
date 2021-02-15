@@ -1,7 +1,7 @@
 I love the Windows Terminal and if you haven't tried it out yet I highly recommend it. Its _super_ customizable which is absolutely lovely. Here are the steps to add Anaconda Prompt to Windows Terminal.
 
 ## Prerequisites
-- [Install Windows Terminal](https://www.microsoft.com/en-us/p/windows-terminal-preview/9n0dx20hk701?activetab=pivot:overviewtab)
+- [Install Windows Terminal](https://www.microsoft.com/p/windows-terminal-preview/9n0dx20hk701?activetab=pivot%3Aoverviewtab&WT.mc_id=aiml-0000-cassieb)
 - [Install Anaconda](https://www.anaconda.com/distribution/)
 - Windows 10
 
